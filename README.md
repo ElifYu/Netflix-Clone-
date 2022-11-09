@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone App
 Netflix Clone App With Swift 5 (UIKIT)
 
 
