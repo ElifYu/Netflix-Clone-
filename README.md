@@ -2,4 +2,5 @@
 Netflix Clone App With Swift
 
 
-[![text](https://r.resimlink.com/pkzBA.png)](https://resimlink.com/pkzBA)
+![alt text](https://github.com/ElifYu/Netflix-Clone-/blob/main/Netflix%20Clone/Assets.xcassets/image1.imageset/image1.jpgraw=true)
+
