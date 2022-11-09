@@ -2,4 +2,4 @@
 Netflix Clone App With Swift
 
 
-![alt text](https://r.resimlink.com/pkzBA.png)
+[![image](https://r.resimlink.com/pkzBA.png)](https://resimlink.com/pkzBA)
